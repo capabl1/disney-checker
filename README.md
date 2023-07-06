@@ -10,7 +10,7 @@ i made this for myself at first, but now that i am making a new github i'm willi
 ``` 
 [GET] https://disney.api.edge.bamgrid.com/v1/public/graphql
 ```
-
+https://media.discordapp.net/attachments/1107003739526660168/1107108326388535347/image.png?width=1050&height=585
 
 
 
