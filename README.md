@@ -4,14 +4,15 @@
 
 i made this for myself at first, but now that i am making a new github i'm willing to share it
 
-![image](https://github.com/capabl1/Geoguessr-request-hack/assets/137743238/7ce323af-82b8-45bc-baf5-8ed26a368d6f)
+![image](https://github.com/capabl1/disney-checker/assets/137472232/59ff66f6-782a-43f0-8670-6b3080bb4fed)
+
 - Fetch all the registered email on Disney plus based on a email list ( txt file )
   
 ``` 
 [GET] https://disney.api.edge.bamgrid.com/v1/public/graphql
 ```
 
-![image](https://github.com/capabl1/disney-checker/assets/137472232/59ff66f6-782a-43f0-8670-6b3080bb4fed)
+
 
 
 VIDEO : 
