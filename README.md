@@ -10,7 +10,11 @@ i made this for myself at first, but now that i am making a new github i'm willi
 ``` 
 [GET] https://disney.api.edge.bamgrid.com/v1/public/graphql
 ```
-https://media.discordapp.net/attachments/1107003739526660168/1107108326388535347/image.png?width=1050&height=585
+
+![image](https://github.com/capabl1/disney-checker/assets/137472232/59ff66f6-782a-43f0-8670-6b3080bb4fed)
+
+
+https://cdn.discordapp.com/attachments/1107003739526660168/1107107866617331752/2023-05-13_20-50-33.mp4
 
 
 
