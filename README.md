@@ -41,6 +41,8 @@ i made this for myself at first, but now that i am making a new github i'm willi
 | X-Request-Id            | 857325bc-a6b5-4561-90ee-190596333826            |
 
 
+> function that extracts and returns THE authorization token from THE request's headers SINCE it is expiring every 1 hour ( or maybe + ), removing the "Bearer " prefix if present for a correct string, you can try first with getting it manually
+
 ```JS
 const auth = (request) => {
   const authorizationHeader = request.headers['authorization'];
