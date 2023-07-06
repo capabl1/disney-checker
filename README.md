@@ -14,6 +14,7 @@ i made this for myself at first, but now that i am making a new github i'm willi
 ![image](https://github.com/capabl1/disney-checker/assets/137472232/59ff66f6-782a-43f0-8670-6b3080bb4fed)
 
 
+VIDEO : 
 https://cdn.discordapp.com/attachments/1107003739526660168/1107107866617331752/2023-05-13_20-50-33.mp4
 
 
